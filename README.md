@@ -52,3 +52,10 @@ refer to original content and, even better, video recordings.
 - Complete all examples in the "04 - Visualisations Using Bokeh"
   tutorial and compile everything into a single gigantic IPython
   Notebook.
+- Go through "05 - Databases for Scientists" and re-apply to
+  (small) Stackexchange dataset and make sure I understand it.
+- Go through "10 - The High Performance Python Landscape" and re-apply
+  all of it using code examples to a new and novel toy example to make
+  sure I understand it.
+- Go through "18 - Measuring Similarity and Clustering Data" and apply
+  to my own toy data to make sure I understand it.
