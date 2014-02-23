@@ -30,7 +30,7 @@ refer to original content and, even better, video recordings.
 - A static view of all IPython Notebook are viewable via the official
   online nbviewer instance:
 
-    http://nbviewer.ipython.org/github/asimihsan/pydata-ldn2014-writeup/tree/master/
+> http://nbviewer.ipython.org/github/asimihsan/pydata-ldn2014-writeup/tree/master/
 
 - Please initialize a new virtualenv - there are a lot of dependencies,
   they probably won't just work.
