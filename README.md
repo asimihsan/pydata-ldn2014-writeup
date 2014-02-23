@@ -3,6 +3,8 @@
 One-stop write up of PyData London 2014 - tutorials, slides, code,
 examples.
 
+> http://nbviewer.ipython.org/github/asimihsan/pydata-ldn2014-writeup/tree/master/
+
 ## Contents
 
 - Introduction
